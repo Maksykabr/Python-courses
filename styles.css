@@ -1,0 +1,37 @@
+div.my-custom-container{
+    background-color: grey;
+}
+
+nav.bg-body-tertiary{
+    background-color: gray !important;
+
+}
+
+.homework{
+    background-color:grey;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    margin: 20px;
+}
+
+div.card{
+    flex: 1;
+    background-color: grey;
+}
+
+.picture{
+    margin: 40px;
+}
+
+.git-button{
+    margin: 40px;
+}
+
