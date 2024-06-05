@@ -1,37 +1,21 @@
-div.my-custom-container{
-    background-color: grey;
-}
+
 
 nav.bg-body-tertiary{
     background-color: gray !important;
 
 }
-
-.homework{
-    background-color:grey;
-    text-align: center;
-    margin: 20px;
-    padding: 20px;
-    border: 1px solid black;
+.jumbotron {
+  background-color: #f8f9fa;
+  border-radius: 0.3rem;
 }
 
-.cards{
-    display: flex;
-    justify-content: space-between;
-    gap: 100px;
-    margin: 20px;
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
 }
 
-div.card{
-    flex: 1;
-    background-color: grey;
-}
-
-.picture{
-    margin: 40px;
-}
-
-.git-button{
-    margin: 40px;
+.social-icon {
+  width: 30px;
+  margin-right: 10px;
 }
 
